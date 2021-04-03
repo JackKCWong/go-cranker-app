@@ -80,7 +80,7 @@ func main() {
 
 	u.RegisterLocation("myservice", "unixsocket")
 
-	http.HandleFunc("/hello", func(rw http.ResponseWriter, r *http.Request) {
+	http.HandleFunc("/myservice/hello", func(rw http.ResponseWriter, r *http.Request) {
 		fmt.Fprintf(rw, "hello\n")
 	})
 

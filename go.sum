@@ -2,6 +2,8 @@ github.com/JackKCWong/go-cranker-connector v0.1.7 h1:ZOsAmGbodN6g0qViH6d1UHBevTi
 github.com/JackKCWong/go-cranker-connector v0.1.7/go.mod h1:rQtX7AlQ8szjUxG4LsvaX7+DW2pzjJkZCP2tFtyjPcc=
 github.com/JackKCWong/go-cranker-connector v0.2.0 h1:BwHyAaqxSd2+e5mtX+x3oC1QbhpiEZ9pTyFzDTtviPE=
 github.com/JackKCWong/go-cranker-connector v0.2.0/go.mod h1:rQtX7AlQ8szjUxG4LsvaX7+DW2pzjJkZCP2tFtyjPcc=
+github.com/JackKCWong/go-cranker-connector v0.2.1 h1:1sc+tdy7XgcTqTVFWL2EmZkSJpYBygLmx8HZ5s1HnvA=
+github.com/JackKCWong/go-cranker-connector v0.2.1/go.mod h1:rQtX7AlQ8szjUxG4LsvaX7+DW2pzjJkZCP2tFtyjPcc=
 github.com/TylerBrock/colorjson v0.0.0-20200706003622-8a50f05110d2/go.mod h1:VSw57q4QFiWDbRnjdX8Cb3Ow0SFncRw+bA/ofY6Q83w=
 github.com/UnnoTed/horizontal v0.0.0-20210214010602-906c695f4c68 h1:xigsVElpknkwhwFA4FsWGODGrMjdm5ozXYs6ZglGmeE=
 github.com/UnnoTed/horizontal v0.0.0-20210214010602-906c695f4c68/go.mod h1:Koz/QDBmhRBtA2rV0mA74mjk504aChs7myY8W316YLg=
